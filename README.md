@@ -4,3 +4,4 @@ physics
 maths 
 computer science
 zoology
+in computer science we enroll 20 students
